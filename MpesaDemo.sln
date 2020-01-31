@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MpesaDemo", "MpesaDemo\MpesaDemo.csproj", "{10319091-FAC9-4F8E-A22C-8D7C96DC7A01}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MpesaService", "MpesaService\MpesaService.csproj", "{175815EA-4AEC-483C-85B5-35514C420406}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10319091-FAC9-4F8E-A22C-8D7C96DC7A01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10319091-FAC9-4F8E-A22C-8D7C96DC7A01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10319091-FAC9-4F8E-A22C-8D7C96DC7A01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10319091-FAC9-4F8E-A22C-8D7C96DC7A01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{175815EA-4AEC-483C-85B5-35514C420406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{175815EA-4AEC-483C-85B5-35514C420406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{175815EA-4AEC-483C-85B5-35514C420406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{175815EA-4AEC-483C-85B5-35514C420406}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2989F54-C22C-4695-B6BC-93F31EC7AF2E}
+	EndGlobalSection
+EndGlobal
